@@ -5,6 +5,8 @@ In this project, language models have been used to answer questions about the Qu
 
 # The steps of the work are as follows:
 1-Extraction of data from the two books: **Majma' al-Bayan** and **Majma' al-Burhan**.
+
+
 2-Using **LlamaIndex** to create an index from the extracted data.
 3-Using the **PartAI/Tooka-SBERT-V2-Large** model to convert the data into vector space.
 4-Using a language model to answer the user's question **only based on the available data**.
