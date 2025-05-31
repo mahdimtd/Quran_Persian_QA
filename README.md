@@ -12,7 +12,6 @@ In this project, language models have been used to answer questions about the Qu
 
 4-Using a language model to answer the user's question **only based on the available data**.
 
-Absolutely! Here’s an English version you can add to the **README.md** for the [Quran\_Persian\_QA](https://github.com/mahdimtd/Quran_Persian_QA/tree/main) project:
 
 ---
 
